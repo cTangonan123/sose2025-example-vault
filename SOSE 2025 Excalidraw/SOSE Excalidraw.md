@@ -15,13 +15,14 @@ tags:
 	- [API Docs](https://docs.excalidraw.com/docs/@excalidraw/excalidraw/api)
 	- ==[DeepWiki](https://deepwiki.com/excalidraw/excalidraw)==
 - [SOSE 2025 Teams](https://docs.google.com/spreadsheets/d/1goZeptpZLQppcT_1bMV_vXQLpr05jlj02S1Kl8ifGpQ/edit?gid=0#gid=0)
-- [[Finding Case Studies–Use This]]
+- [Finding Case Studies–Use This](00%20attachments/Finding%20Case%20Studies–Use%20This.md)
 
 ### Milestones
 - [x]  [Issue Selected(Aligning elements in the group #9606)](https://github.com/excalidraw/excalidraw/issues/9606)
-- [ ] [Pull Request(Fix: aligning and distributing elements and nested groups while editing a group #9721)](https://github.com/excalidraw/excalidraw/pull/9721)
-- [ ] [[10 Issue Found - Discovery Phase|Issue to be raised in relation to groups]]
- 
+- [x] [Pull Request(Fix: aligning and distributing elements and nested groups while editing a group #9721)](https://github.com/excalidraw/excalidraw/pull/9721)
+- [x] [Issue:(Test: currently no tests for distribute #9753)](https://github.com/excalidraw/excalidraw/issues/9753)
+- [x] [PR:(test: added test file for distribute #9754)](https://github.com/excalidraw/excalidraw/pull/9754) *pending Review*
+
 ### External Resources
 - [React Docs](https://react.dev)
 - [Scrimba React Course](https://scrimba.com/)
@@ -30,13 +31,10 @@ tags:
 - Chris Tangonan
 - Kaulan Serzhanuly
 ## Table of Contents for Vault
-- [[01 Understanding the Codebase]]
-- [[02 Architecture Deep Diving DeepWiki]]
-- [[03 Case Studies-Grouping and Align]]
-- [[04 Group debug session]]
-
-
-
+- [01 Understanding the Codebase](01%20Understanding%20the%20Codebase.md)
+- [02 Architecture Deep Diving DeepWiki](02%20Architecture%20Deep%20Diving%20DeepWiki.md)
+- [03 Case Studies-Grouping and Align](03%20Case%20Studies-Grouping%20and%20Align.md)
+- [04 Group debug session](04%20Group%20debug%20session.md)
 ---
 # Build Instructions
 ## Steps to get it running locally
@@ -55,7 +53,7 @@ use `nvm` in order to downgrade your node version
 	- [link to repo](https://github.com/coreybutler/nvm-windows)
 after running the curl or wGet command for installation, open new terminal
 - downgrade your node version
-```bash
+```sh
 nvm install 22
 nvm use 22 # using the latest version possible
 
@@ -64,16 +62,16 @@ node -v # check to ensure your node version has changed
 *after this step you should be able to run the `yarn` command without issue*
 
 ### In order to serve and see what the application looks like
-```bash
+```sh
 yarn build:preview
 ```
 
-![[02 Architecture Deep Diving DeepWiki#Common Build Commands]]
+![02 Architecture Deep Diving DeepWiki#Common Build Commands](02%20Architecture%20Deep%20Diving%20DeepWiki#Common%20Build%20Commands)
 
 ---
 ## Git Workflow
 ### Pre-Commit
-```bash
+```sh
 # testing and lint
 yarn test:typecheck
 yarn test:update

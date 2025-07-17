@@ -15,6 +15,7 @@ tags:
 - [>] Go to file relevant to your issue.
 - ["] "Could you generate a **markdown table** of all the methods in file $X$ with Headings consisting of: Method, Parameters, Return Type and Description"
 	- let $X$ be the the relevant file to your issue
+
 ---
 # Debug Session: Example for `../groups.ts`
 
@@ -73,8 +74,7 @@ graph TD
 - [b] the topmost group is always the last in the array
 
 ## adding an additional feature to Pull Request stepping through process
-![[Drawing 2025-07-09 11.39.13.excalidraw]]
-
+![](00%20attachments/excalidraw/Drawing%202025-07-17%2016.07.38.excalidraw)
 
 # Modifications to Source Code
 ## Changes in `./groups.ts`

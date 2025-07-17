@@ -84,7 +84,7 @@ H1-->H3
 
 ### Action System and Command Pattern(get mermaid later)
 
-![[Screenshot 2025-07-02 at 3.28.30 PM.png]]
+![](00%20attachments/img/a8925cd4bc34fac5a62a853f1aca05ca.png)
 
 ## App Component Architecture
 |Service|Type|Purpose|

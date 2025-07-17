@@ -13,7 +13,7 @@ primary-issue: "9606"
 # Case Studies Related to your Issue
 ## Resources
 -  [GitHub Docs: Searching issues and pull requests](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests#search-by-qualifier)
-- [[Finding Case Studies–Use This|table generated through copilot]]
+- [Finding Case Studies–Use This](00%20attachments/Finding%20Case%20Studies%E2%80%93Use%20This.md)
 - [f] [Example for searching](https://github.com/excalidraw/excalidraw/pulls)
 
 ## 🤖 Prompting with Copilot
@@ -31,11 +31,11 @@ primary-issue: "9606"
 ---
 # Case Studies Examples: using Issue #9606
 keywords searched: `double-click` `group` `align` `distribute`
-- use [[Finding Case Studies–Use This|Github search bar helper]]
+- use [Github search bar helper](00%20attachments/Finding%20Case%20Studies%E2%80%93Use%20This.md)
 
 This is to evaluate PR's in relation to issue #9606
 - List of Possible Issues
-- [[Finding Case Studies–Use This]]
+- [Finding Case Studies–Use This](00%20attachments/Finding%20Case%20Studies%E2%80%93Use%20This.md)
 
 | link to issue                                                                                   | link to PR                                                  | Relevance Scale (⭐️⭐️⭐️⭐️⭐️) | Why?                                                                                     | Why Not?                                           |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------- |
@@ -109,7 +109,7 @@ This is to evaluate PR's in relation to issue #9606
 ---
 ## Test Case 03: Clean up of align group and distribute
 
-|         Category | clean up of align group and distribute                                                                                     |
+|     **Category** | clean up of align group and distribute                                                                                     |
 | ---------------: | -------------------------------------------------------------------------------------------------------------------------- |
 |        **Issue** | [#4467](https://github.com/excalidraw/excalidraw/issues/4467)                                                              |
 | **Pull Request** | [#4468 fix: align and distribute binded text in container and cleanup](https://github.com/excalidraw/excalidraw/pull/4468) |
