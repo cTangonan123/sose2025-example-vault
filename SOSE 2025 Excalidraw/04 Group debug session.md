@@ -1,13 +1,3 @@
----
-tags:
-  - cs
-  - csonline
-  - cti
-  - accelerate
-  - sose
-  - codeday
-  - excalidraw
----
 # Group Methods
 ## Resources
 - [Markdown syntax](https://help.obsidian.md/syntax)
