@@ -1,15 +1,3 @@
----
-tags:
-  - cs
-  - csonline
-  - csumb
-  - cti
-  - accelerate
-  - excalidraw
-  - test-case-studies
-repo: https://www.github.com/excalidraw/excalidraw
-primary-issue: "9606"
----
 # Case Studies Related to your Issue
 ## Resources
 -  [GitHub Docs: Searching issues and pull requests](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests#search-by-qualifier)
@@ -17,14 +5,14 @@ primary-issue: "9606"
 - [f] [Example for searching](https://github.com/excalidraw/excalidraw/pulls)
 
 ## 🤖 Prompting with Copilot
-- ["] "Could you generate me a markdown table with the headings: $X$, $Y$, $Z$"
+- 🗣️ "Could you generate me a markdown table with the headings: $X$, $Y$, $Z$"
 	- let $X$, $Y$, $Z$  be relevant headings you want
 	- just copy and paste, and use the table to add or drop rows columns as needed.
 
 ## 🔍 Search Queries
 - 🔍 is:pr is:closed in:title "$X$"
 	- let $X$ be some relevant piece related to your issue
-	- [>] sort descending to find original implementation of $X$
+	- ➡️ sort descending to find original implementation of $X$
 - 🔍 is:pr is:closed author:$Y$
 	- let $Y$ be some maintainer of the repo
 
