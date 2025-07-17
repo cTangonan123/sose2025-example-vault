@@ -1,18 +1,8 @@
----
-tags:
-  - cs
-  - csonline
-  - csumb
-  - excalidraw
-  - app
-  - programming
-  - development
----
 # Deep Diving Deep Wiki
 ### Resources
-- [f] [DeepWiki Mainpage](https://www.deepwiki.com)
+- 🔥 [DeepWiki Mainpage](https://www.deepwiki.com)
 	- [DeepWiki for Excalidraw](https://deepwiki.com/excalidraw/excalidraw)
-- [f] [in case your project doesn't have one: easy add example](https://deepwiki.com/OpenEnergyDashboard/OED)
+- 🔥 [in case your project doesn't have one: easy add example](https://deepwiki.com/OpenEnergyDashboard/OED)
 	- possible to create one for the project
 	- requires indexing, so will take 2-10 minutes
 	- could be a great way of creating rapport with a maintainer?
