@@ -5,17 +5,17 @@
 - [mermaid docs](https://mermaid.js.org/intro/)
 
 ### 🤖 Prompting with Copilot
-- ["] "can you generate me a **mermaid sequence diagram** that could provide me with a high-level understanding of $X$"
+- 🗣️ "can you generate me a **mermaid sequence diagram** that could provide me with a high-level understanding of $X$"
 	- let $X$ be your particular project
-	- [I] [#Example High level Understanding of Codebase for Excalidraw](#Example%20High%20level%20Understanding%20of%20Codebase%20for%20Excalidraw)
-- [>] navigate to your where your dependencies are tracked first:
-- ["] "can you generate me a **markdown table** of all the relevant dependencies ordered by dependency descending, with headings of: package,  description, and ranking limit of 5"
-	- [I] [#Example Markdown Table of Dependencies for Excalidraw](#Example%20Markdown%20Table%20of%20Dependencies%20for%20Excalidraw)
-- [>] navigate to file of relevance to your issue:
-- ["] "can you generate me a mermaid flowchart when $X$ does $Y$"
+	- 💡 [#Example High level Understanding of Codebase for Excalidraw](#Example%20High%20level%20Understanding%20of%20Codebase%20for%20Excalidraw)
+- ➡️ navigate to your where your dependencies are tracked first:
+- 🗣️ "can you generate me a **markdown table** of all the relevant dependencies ordered by dependency descending, with headings of: package,  description, and ranking limit of 5"
+	- 💡 [#Example Markdown Table of Dependencies for Excalidraw](#Example%20Markdown%20Table%20of%20Dependencies%20for%20Excalidraw)
+- ➡️ navigate to file of relevance to your issue:
+- 🗣️ "can you generate me a mermaid flowchart when $X$ does $Y$"
 	- let $X$ be an actor, i.e.: user, component of the program etc.
 	- let $Y$ be particular action of interest, related to your issue.
-	- [I] [#Example Generating Flowchart for Unique Cases relevant to your Issue](#Example%20Generating%20Flowchart%20for%20Unique%20Cases%20relevant%20to%20your%20Issue) 
+	- 💡 [#Example Generating Flowchart for Unique Cases relevant to your Issue](#Example%20Generating%20Flowchart%20for%20Unique%20Cases%20relevant%20to%20your%20Issue) 
 
 ---
 
