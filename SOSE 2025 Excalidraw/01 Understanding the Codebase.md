@@ -1,10 +1,3 @@
----
-tags:
-  - cs
-  - csonline
-  - sose
-  - excalidraw
----
 # Understanding the Codebase
 
 ## Resources
