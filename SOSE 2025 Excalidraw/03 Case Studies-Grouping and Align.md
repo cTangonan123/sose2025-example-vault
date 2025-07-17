@@ -2,7 +2,7 @@
 ## Resources
 -  [GitHub Docs: Searching issues and pull requests](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests#search-by-qualifier)
 - [Finding Case Studies–Use This](00%20attachments/Finding%20Case%20Studies%E2%80%93Use%20This.md)
-- [f] [Example for searching](https://github.com/excalidraw/excalidraw/pulls)
+- 🔥 [Example for searching](https://github.com/excalidraw/excalidraw/pulls)
 
 ## 🤖 Prompting with Copilot
 - 🗣️ "Could you generate me a markdown table with the headings: $X$, $Y$, $Z$"
