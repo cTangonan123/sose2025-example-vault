@@ -1,19 +1,10 @@
----
-tags:
-  - cs
-  - csonline
-  - csumb
-  - cti
-  - accelerate
-  - codeday
----
 # SOSE Excalidraw
 ## Important Links
 - [Excalidraw Github](https://github.com/excalidraw/excalidraw)
 	- [Contributing Guide](https://docs.excalidraw.com/docs/introduction/contributing)
 	- [Development Docs](https://docs.excalidraw.com/docs/introduction/development)
 	- [API Docs](https://docs.excalidraw.com/docs/@excalidraw/excalidraw/api)
-	- ==[DeepWiki](https://deepwiki.com/excalidraw/excalidraw)==
+	- [DeepWiki](https://deepwiki.com/excalidraw/excalidraw)
 - [SOSE 2025 Teams](https://docs.google.com/spreadsheets/d/1goZeptpZLQppcT_1bMV_vXQLpr05jlj02S1Kl8ifGpQ/edit?gid=0#gid=0)
 - [Finding Case Studies–Use This](00%20attachments/Finding%20Case%20Studies–Use%20This.md)
 
@@ -49,7 +40,7 @@ tags:
 use `nvm` in order to downgrade your node version
 - if you don't have `nvm` installed: 
 	- [link to repo](https://github.com/nvm-sh/nvm)
-- ==note:== `nvm-windows` for PC 🖥️
+- note: `nvm-windows` for PC 🖥️
 	- [link to repo](https://github.com/coreybutler/nvm-windows)
 after running the curl or wGet command for installation, open new terminal
 - downgrade your node version
@@ -65,8 +56,6 @@ node -v # check to ensure your node version has changed
 ```sh
 yarn build:preview
 ```
-
-![02 Architecture Deep Diving DeepWiki#Common Build Commands](02%20Architecture%20Deep%20Diving%20DeepWiki#Common%20Build%20Commands)
 
 ---
 ## Git Workflow
