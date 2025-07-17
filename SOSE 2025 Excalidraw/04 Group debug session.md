@@ -2,8 +2,8 @@
 ## Resources
 - [Markdown syntax](https://help.obsidian.md/syntax)
 ### 🤖 Prompting with Copilot
-- [>] Go to file relevant to your issue.
-- ["] "Could you generate a **markdown table** of all the methods in file $X$ with Headings consisting of: Method, Parameters, Return Type and Description"
+- ➡️ Go to file relevant to your issue.
+- 🗣️ "Could you generate a **markdown table** of all the methods in file $X$ with Headings consisting of: Method, Parameters, Return Type and Description"
 	- let $X$ be the the relevant file to your issue
 
 ---
