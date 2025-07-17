@@ -10,10 +10,10 @@
 	- just copy and paste, and use the table to add or drop rows columns as needed.
 
 ## 🔍 Search Queries
-- 🔍 is:pr is:closed in:title "$X$"
+- 🔍 is:pr is:closed in:title " $X$ "
 	- let $X$ be some relevant piece related to your issue
 	- ➡️ sort descending to find original implementation of $X$
-- 🔍 is:pr is:closed author:$Y$
+- 🔍 is:pr is:closed author: $Y$
 	- let $Y$ be some maintainer of the repo
 
 ---
