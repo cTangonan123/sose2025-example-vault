@@ -17,5 +17,6 @@ This repository was created in order to help provide examples of using AI during
 - [DeepWiki](https://www.deepwiki.com)
 - [mermaid live editor](https://mermaid.live)
 - [mermaid docs to see other possible diagrams copilot can output](https://mermaid.js.org/intro/)
+- [mermaid to excalidraw](https://mermaid-to-excalidraw.vercel.app/)
 - [GitHub Docs: Searching issues and pull requests](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests#search-by-qualifier)
 
